@@ -337,8 +337,8 @@ menu() {
     echo ""
     echo -e $b $bld" Genshin Impact: Script Configuration"
     echo -e $def ""
-    echo -e $y"  1.$def Downscale Resolution"
-    echo -e $y"  2.$def Config"
+    echo -e $y"  1.$def Downscale Resolution & FPS Throttling"
+    echo -e $y"  2.$def Config (Installation)"
     echo -e $y"  3.$def Exit"
     echo ""
     mainmenu
