@@ -11,5 +11,4 @@ This config installation uses the `genshin.sh` script which requires termux with
 in this config i also added an option to lower the resolution, which of course I recommend you to use.
 
 #### Reference :
-Android Developer: [Downscale](https://developer.android.com/games/optimize/adpf/gamemode/gamemode-interventions)
-Android Developer: [FPS Throttling](https://developer.android.com/games/optimize/adpf/gamemode/fps-throttling)
+Android Developer: [Downscale](https://developer.android.com/games/optimize/adpf/gamemode/gamemode-interventions), [FPS Throttling](https://developer.android.com/games/optimize/adpf/gamemode/fps-throttling)
