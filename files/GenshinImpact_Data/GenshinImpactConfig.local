@@ -1,0 +1,12 @@
+configVersion 7
+r_shadowsDistanceFadeMultiplier "0.8"
+r_shadowMaxStaleFrames "0,1,1,2,2"
+vt_pageImageSizeUnique "4096"
+vt_pageImageSizeVmtr "4096"
+r_renderAPI "0"
+r_mode "0"
+r_physicalPagesAspectRatio "2"
+r_vmtrPhysicalPagesAspectRatio "1"
+r_shadowAtlasTileSize "1024"
+r_shadowAtlasHeight "1024"
+r_shadowAtlasWidth "1024"
