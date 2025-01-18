@@ -1,0 +1,1246 @@
+{
+  "header": {
+    "file_version": 2,
+    "format_version": 1,
+    "library_version": 1
+  },
+  "profiles": {
+    "ColorCorrection": {
+      "defaults": [
+        {
+          "Default": [
+            [
+              "CC_Tags",
+              "UIMatrix CharacterMatrix CCPostEffectMatrix"
+            ],
+            [
+              "UIMatrix_Saturation",
+              1.0,
+              "UIMatrix Saturation",
+              "[0;1]"
+            ],
+            [
+              "UIMatrix_Contrast",
+              1.0,
+              "UIMatrix Contrast",
+              "[0;1]"
+            ],
+            [
+              "UIMatrix_SaturationRed",
+              0.0,
+              "UIMatrix SaturationRed",
+              "[-1;1]"
+            ],
+            [
+              "UIMatrix_SaturationGreen",
+              0.0,
+              "UIMatrix SaturationGreen",
+              "[-1;1]"
+            ],
+            [
+              "UIMatrix_SaturationBlue",
+              0.0,
+              "UIMatrix SaturationBlue",
+              "[-1;1]"
+            ],
+            [
+              "UIMatrix_ColorOffsetRed",
+              0.0,
+              "UIMatrix ColorOffsetRed",
+              "[-1;1]"
+            ],
+            [
+              "UIMatrix_ColorOffsetGreen",
+              0.0,
+              "UIMatrix ColorOffsetGreen",
+              "[-1;1]"
+            ],
+            [
+              "UIMatrix_ColorOffsetBlue",
+              0.0,
+              "UIMatrix ColorOffsetBlue",
+              "[-1;1]"
+            ],
+            [
+              "UIMatrix_BrightnessRed",
+              0.0,
+              "UIMatrix BrightnessRed",
+              "[-1;1]"
+            ],
+            [
+              "UIMatrix_BrightnessGreen",
+              0.0,
+              "UIMatrix BrightnessGreen",
+              "[-1;1]"
+            ],
+            [
+              "UIMatrix_BrightnessBlue",
+              0.0,
+              "UIMatrix BrightnessBlue",
+              "[-1;1]"
+            ],
+            [
+              "UIMatrix_Brightness",
+              1.0,
+              "UIMatrix Brightness",
+              "[0;1]"
+            ],
+            [
+              "CharacterMatrix_Saturation",
+              1.0,
+              "CharacterMatrix Saturation",
+              "[0;1]"
+            ],
+            [
+              "CharacterMatrix_Contrast",
+              1.0,
+              "CharacterMatrix Contrast",
+              "[0;1]"
+            ],
+            [
+              "CharacterMatrix_SaturationRed",
+              0.0,
+              "CharacterMatrix SaturationRed",
+              "[-1;1]"
+            ],
+            [
+              "CharacterMatrix_SaturationGreen",
+              0.0,
+              "CharacterMatrix SaturationGreen",
+              "[-1;1]"
+            ],
+            [
+              "CharacterMatrix_SaturationBlue",
+              0.0,
+              "CharacterMatrix SaturationBlue",
+              "[-1;1]"
+            ],
+            [
+              "CharacterMatrix_ColorOffsetRed",
+              0.0,
+              "CharacterMatrix ColorOffsetRed",
+              "[-1;1]"
+            ],
+            [
+              "CharacterMatrix_ColorOffsetGreen",
+              0.0,
+              "CharacterMatrix ColorOffsetGreen",
+              "[-1;1]"
+            ],
+            [
+              "CharacterMatrix_ColorOffsetBlue",
+              0.0,
+              "CharacterMatrix ColorOffsetBlue",
+              "[-1;1]"
+            ],
+            [
+              "CharacterMatrix_BrightnessRed",
+              0.0,
+              "CharacterMatrix BrightnessRed",
+              "[-1;1]"
+            ],
+            [
+              "CharacterMatrix_BrightnessGreen",
+              0.0,
+              "CharacterMatrix BrightnessGreen",
+              "[-1;1]"
+            ],
+            [
+              "CharacterMatrix_BrightnessBlue",
+              0.0,
+              "CharacterMatrix BrightnessBlue",
+              "[-1;1]"
+            ],
+            [
+              "CharacterMatrix_Brightness",
+              1.0,
+              "CharacterMatrix Brightness",
+              "[0;1]"
+            ],
+            [
+              "CCPostEffectMatrix_Saturation",
+              1.0,
+              "CCPostEffectMatrix Saturation",
+              "[0;1]"
+            ],
+            [
+              "CCPostEffectMatrix_Contrast",
+              1.0,
+              "CCPostEffectMatrix Contrast",
+              "[0;1]"
+            ],
+            [
+              "CCPostEffectMatrix_SaturationRed",
+              0.0,
+              "CCPostEffectMatrix SaturationRed",
+              "[-1;1]"
+            ],
+            [
+              "CCPostEffectMatrix_SaturationGreen",
+              0.0,
+              "CCPostEffectMatrix SaturationGreen",
+              "[-1;1]"
+            ],
+            [
+              "CCPostEffectMatrix_SaturationBlue",
+              0.0,
+              "CCPostEffectMatrix SaturationBlue",
+              "[-1;1]"
+            ],
+            [
+              "CCPostEffectMatrix_ColorOffsetRed",
+              0.0,
+              "CCPostEffectMatrix ColorOffsetRed",
+              "[-1;1]"
+            ],
+            [
+              "CCPostEffectMatrix_ColorOffsetGreen",
+              0.0,
+              "CCPostEffectMatrix ColorOffsetGreen",
+              "[-1;1]"
+            ],
+            [
+              "CCPostEffectMatrix_ColorOffsetBlue",
+              0.0,
+              "CCPostEffectMatrix ColorOffsetBlue",
+              "[-1;1]"
+            ],
+            [
+              "CCPostEffectMatrix_BrightnessRed",
+              0.0,
+              "CCPostEffectMatrix BrightnessRed",
+              "[-1;1]"
+            ],
+            [
+              "CCPostEffectMatrix_BrightnessGreen",
+              0.0,
+              "CCPostEffectMatrix BrightnessGreen",
+              "[-1;1]"
+            ],
+            [
+              "CCPostEffectMatrix_BrightnessBlue",
+              0.0,
+              "CCPostEffectMatrix BrightnessBlue",
+              "[-1;1]"
+            ],
+            [
+              "CCPostEffectMatrix_Brightness",
+              1.0,
+              "CCPostEffectMatrix Brightness",
+              "[0;1]"
+            ]
+          ]
+        }
+      ],
+      "selection": [],
+      "overrides": [],
+      "priority": []
+    },
+    "CPU": {
+      "defaults": [
+        {
+          "Default": [
+            [
+              "CPU_Level",
+              1,
+              "CPU_Level",
+              "[0;2]"
+            ],
+            [
+              "SoundCategory",
+              1,
+              "0=all sounlds will play.\n1=some sounds will not play.\n2=more sounds will not play.",
+              "[0;2]"
+            ],
+            [
+              "Enhanced3DSounds",
+              false,
+              "Enable enhanced 3D sounds.",
+              "[0;0]"
+            ],
+            [
+              "LowGameplay",
+              false,
+              "if enabled, fewer enemies will be spawn.",
+              "[0;0]"
+            ],
+            [
+              "CreateObjectPackLimit",
+              5,
+              "Limit the pack count limit of CreateOjbect(a lot I/O) processed each frame during AP to help micro-freeze, if 0 means to disable this feature",
+              "[0;35]"
+            ]
+          ]
+        }
+      ],
+      "selection": [
+        {
+          "CPU_Low": [
+            [
+              [
+                "CORES<2"
+              ]
+            ],
+            [
+              [
+                "CORES=2"
+              ],
+              [
+                "CPUFMAX<1200000"
+              ]
+            ]
+          ]
+        },
+        {
+          "CPU_High": [
+            [
+              [
+                "CORES=2"
+              ],
+              [
+                "CPUFMAX>=1200000"
+              ]
+            ],
+            [
+              [
+                "CORES>2"
+              ]
+            ]
+          ]
+        }
+      ],
+      "overrides": {
+        "CPU_High": {
+          "SoundCategory": 1,
+          "Enhanced3DSounds": false,
+          "LowGameplay": true
+        },
+        "CPU_Low": {
+          "CPU_Level": 0,
+          "SoundCategory": 1,
+          "Enhanced3DSounds": false,
+          "LowGameplay": true
+        }
+      },
+      "priority": []
+    },
+    "GPU": {
+      "defaults": [
+        {
+          "Default": [
+            [
+              "GPU_Level",
+              1,
+              "GPU_Level: 0-1 = low, 2-3 = med, 4-5 = high",
+              "[0;6]"
+            ],
+            [
+              "ModelDetailLevel",
+              0,
+              "model with higher detail level than device wont be rendered",
+              "[0;2]"
+            ],
+            [
+              "EnableProjectCull",
+              false,
+              "Use project area size to switch LOD, it does work on scene item, because large scene Object will always project to a very big area ",
+              "[0;0]"
+            ],
+            [
+              "ProjectCullThrehold",
+              0.1,
+              "Model which projected to screen with a small area than this will display as low model",
+              "[0;5]"
+            ],
+            [
+              "CullDistanceCoef",
+              6,
+              "",
+              "[0;30]"
+            ],
+            [
+              "EnableDistanceCulling",
+              true,
+              "",
+              "[0;0]"
+            ],
+            [
+              "CameraFarPlaneDis",
+              240.0,
+              "Camera far plane distance, min = 1 Tile Size(64), max = 3 Tile(64*3) * 1.414 = 271.5 ",
+              "[64;272]"
+            ],
+            [
+              "EnableFogDistanceLimit",
+              false,
+              "If enabled, will limit fog distance to a fixed value, fogNearMax = 16 * fogDisCoef, fogHalfMax = 50 * fogDisCoef, used on low-end for smaller camera far plane",
+              "[0;0]"
+            ],
+            [
+              "ForceModelLodLevel",
+              1,
+              "Force to use high or low level model for all npc & scene object. 0 = high, 1 = low, 2 = enable switch between high & low.",
+              "[0;2]"
+            ],
+            [
+              "EnableHardwareSkinning",
+              true,
+              "The skinning is done on GPU, better performance, but may cause shader to not compile on older devices (too much uniforms), in this case, disable it for those devices",
+              "[0;0]"
+            ],
+            [
+              "EnableNormalMap",
+              true,
+              "",
+              "[0;0]"
+            ],
+            [
+              "EnableEnvironmentMap",
+              true,
+              "",
+              "[0;0]"
+            ],
+            [
+              "EffectBias",
+              2,
+              "effect LOD to skip",
+              "[0;7]"
+            ],
+            [
+              "EffectDetailLevel",
+              1,
+              "different level for emit interval and emit amount\n2=high, 1=medium, 0=low",
+              "[0;2]"
+            ],
+            [
+              "TerrainTileSight",
+              2,
+              "How many tile is displayed? 2* TerrainTileSight + 2",
+              "[1;2]"
+            ],
+            [
+              "FogDisCoef",
+              1.0,
+              "Use nearer fog distance on low-end device",
+              "[0;1]"
+            ],
+            [
+              "ShadowLevel",
+              1,
+              "0=No Shadow, 1=Blob Shadow, 2=ShadowMap",
+              "[0;2]"
+            ],
+            [
+              "RTTViewportScale",
+              1.0,
+              "Use a smaller viewport for RTT to help GPU performance, it should be the percent of original",
+              "[0;1]"
+            ],
+            [
+              "EnableBloom",
+              true,
+              "",
+              "[0;0]"
+            ],
+            [
+              "EnableMSAA",
+              false,
+              "",
+              "[0;0]"
+            ],
+            [
+              "EnableUnderwaterEffect",
+              false,
+              "",
+              "[0;0]"
+            ],
+            [
+              "EnableWaterDrop",
+              false,
+              "",
+              "[0;0]"
+            ],
+            [
+              "EnableFlash",
+              true,
+              "",
+              "[0;0]"
+            ],
+            [
+              "EnableFadeColor",
+              true,
+              "",
+              "[0;0]"
+            ],
+            [
+              "EnableRadialBlur",
+              true,
+              "",
+              "[0;0]"
+            ],
+            [
+              "EnableBladeDisort",
+              true,
+              "",
+              "[0;0]"
+            ],
+            [
+              "ShadersLevel",
+              2,
+              "0-low;1-med;2-high",
+              "[0;2]"
+            ],
+            [
+              "EnableStaticBatch",
+              true,
+              "Terrain static batch will be enabled, it costs more memory and bring micro-freeze during compiling",
+              "[0;0]"
+            ],
+            [
+              "EnableCullingDisCoefOnAngle",
+              false,
+              "Model culling distance will be decreased on sideview, if Enabled",
+              "[0;0]"
+            ],
+            [
+              "DeviceLayer",
+              5,
+              "the higher, the more layer will be rendered",
+              "[0;4]"
+            ],
+            [
+              "ShowTerrainLightMap",
+              true,
+              "show or hide terrain lightmap",
+              "[0;0]"
+            ],
+            [
+              "ShowModelLightMap",
+              true,
+              "show or hide model lightmap",
+              "[0;0]"
+            ],
+            [
+              "UseMsaa",
+              false,
+              "",
+              "[0;0]"
+            ],
+            [
+              "DisableFontEffects",
+              false,
+              "disable blur/glow/drop shadow effect",
+              "[0;0]"
+            ],
+            [
+              "FPSLimit",
+              60,
+              "Limit the maximum FPS",
+              "[0;60]"
+            ],
+            [
+              "TotalNPCAmountLimit",
+              30,
+              "0 means to disable NPC Total Amount Limit, then display 4 players, 8 NPC, 8 StatObject. A specific number means a total limit for all kinds of player&npc&obj, and then display them based on preset priority",
+              "[0;60]"
+            ],
+            [
+              "TotalNPCAmountLimitMin",
+              20,
+              "",
+              "[0;60]"
+            ],
+            [
+              "TotalNPCAmountLimitMax",
+              60,
+              "",
+              "[0;60]"
+            ],
+            [
+              "SkillEffectAmoutLimit",
+              20,
+              "",
+              "[0;60]"
+            ],
+            [
+              "SkipTouchEventInSameFrame",
+              false,
+              "if skip most Move touch event in current frame and just process the last move event",
+              "[0;0]"
+            ],
+            [
+              "PortingPerf_DynamicBatching",
+              false,
+              "dynamic batching will reduce draw calls but can actually be less performant on Android",
+              "[0;0]"
+            ],
+            [
+              "PortingPerf_WaterDynamicBatching",
+              true,
+              "special case, to keep dyn batching on water chunks, which always need it",
+              "[0;0]"
+            ],
+            [
+              "PortingPerf_ObjectCullingLevel",
+              2,
+              "The lower the level, the more objects will be hidden, 0-Low devices, 1-medium, 2-high",
+              "[0;2]"
+            ],
+            [
+              "Anisotropy",
+              4,
+              "If device has a weak GPU, set this to zero (will increase texture aliasing at distance but less GPU usage)",
+              "[0;4]"
+            ],
+            [
+              "PreloadShaders",
+              true,
+              "Preload shaders to reduce freezes (but increases loading times)",
+              "[0;0]"
+            ],
+            [
+              "ShowHillInSky",
+              false,
+              "Android: show or hide model hill in the sky",
+              "[0;0]"
+            ],
+            [
+              "AllowAdaptedHardwareSkinning",
+              true,
+              "Android: allow HW skinning for character that have > 20 bones",
+              "[0;0]"
+            ],
+            [
+              "OptimizeStaticBatchRendering",
+              true,
+              "gains 10% on static batch render time, may cause display issues !",
+              "[0;0]"
+            ],
+            [
+              "OptimizeRedundantUniforms",
+              true,
+              "gains a few ms on all draw calls by avoiding useless glUniform calls, may cause display issues !",
+              "[0;0]"
+            ],
+            [
+              "EnableSkipMoreMipmapLevel",
+              false,
+              "Skip at least 1 level of mipmap textures for low ends",
+              "[0;0]"
+            ],
+            [
+              "OptimizeWorldMapAmount",
+              20,
+              "if > 0, improve worldmap fps, the higher the value, the better fps is but the less often icons are updated (20: every second, 10: every 0.5s ...)",
+              "[0;20]"
+            ],
+            [
+              "FPSLimitInMenu",
+              60,
+              "Limit the maximum FPS in Menu",
+              "[0;60]"
+            ],
+            [
+              "EnableUIThread",
+              false,
+              "UI update will be done in a worker thread",
+              "[0;0]"
+            ],
+            [
+              "EnableStick",
+              true,
+              "Enable rendering the track stick at bottom left of screen",
+              "[0;0]"
+            ]
+          ]
+        },
+      "overrides": {
+        "GPU_0": {
+          "GPU_Level": 0,
+          "ModelDetailLevel": 2,
+          "CullDistanceCoef": 4,
+          "EnableFogDistanceLimit": true,
+          "ForceModelLodLevel": 1,
+          "EffectBias": 0,
+          "EffectDetailLevel": 0,
+          "FogDisCoef": 0.667,
+          "EnableBloom": false,
+          "EnableUnderwaterEffect": false,
+          "EnableWaterDrop": false,
+          "EnableFlash": false,
+          "EnableRadialBlur": false,
+          "EnableBladeDisort": false,
+          "ShadersLevel": 0,
+          "DeviceLayer": 1,
+          "ShowTerrainLightMap": false,
+          "DisableFontEffects": true,
+          "TotalNPCAmountLimit": 20,
+          "TotalNPCAmountLimitMin": 4,
+          "TotalNPCAmountLimitMax": 60,
+          "SkillEffectAmoutLimit":10,
+          "SkipTouchEventInSameFrame": true,
+          "Anisotropy": 0,
+          "EnableSkipMoreMipmapLevel": true,
+          "EnableStick": false
+        },
+        "GPU_0M": {
+          "GPU_Level": 0,
+          "ModelDetailLevel": 2,
+          "CullDistanceCoef": 4,
+          "EnableFogDistanceLimit": true,
+          "ForceModelLodLevel": 1,
+          "EffectBias": 0,
+          "EffectDetailLevel": 0,
+          "TerrainTileSight": 1,
+          "FogDisCoef": 0.667,
+          "ShadowLevel": 0,
+          "EnableBloom": false,
+          "EnableUnderwaterEffect": false,
+          "EnableWaterDrop": false,
+          "EnableFlash": false,
+          "EnableRadialBlur": false,
+          "EnableBladeDisort": false,
+          "ShadersLevel": 0,
+          "DeviceLayer": 1,
+          "ShowTerrainLightMap": false,
+          "ShowModelLightMap": false,
+          "DisableFontEffects": true,
+          "TotalNPCAmountLimit": 20,
+          "TotalNPCAmountLimitMin": 4,
+          "TotalNPCAmountLimitMax": 60,
+          "SkillEffectAmoutLimit":10,
+          "SkipTouchEventInSameFrame": true,
+          "Anisotropy": 0,
+          "ShowHillInSky": false,
+          "EnableSkipMoreMipmapLevel": true,
+          "EnableStick": false
+        },
+        "GPU_1": {
+          "GPU_Level": 0,
+          "ModelDetailLevel": 2,
+          "CullDistanceCoef": 4,
+          "EnableFogDistanceLimit": true,
+          "ForceModelLodLevel": 1,
+          "EffectBias": 0,
+          "EffectDetailLevel": 0,
+          "FogDisCoef": 0.667,
+          "EnableBloom": false,
+          "EnableUnderwaterEffect": false,
+          "EnableWaterDrop": false,
+          "EnableFlash": false,
+          "EnableRadialBlur": false,
+          "EnableBladeDisort": false,
+          "ShadersLevel": 0,
+          "DeviceLayer": 1,
+          "ShowTerrainLightMap": false,
+          "DisableFontEffects": true,
+          "TotalNPCAmountLimit": 20,
+          "TotalNPCAmountLimitMin": 4,
+          "TotalNPCAmountLimitMax": 60,
+          "SkillEffectAmoutLimit":10,
+          "SkipTouchEventInSameFrame": true,
+          "Anisotropy": 0,
+          "EnableSkipMoreMipmapLevel": true,
+          "EnableStick": false
+        },
+        "GPU_2": {
+          "GPU_Level": 0,
+          "ModelDetailLevel": 2,
+          "CullDistanceCoef": 4,
+          "EnableFogDistanceLimit": true,
+          "ForceModelLodLevel": 1,
+          "EffectBias": 0,
+          "EffectDetailLevel": 0,
+          "FogDisCoef": 0.667,
+          "EnableBloom": false,
+          "EnableUnderwaterEffect": false,
+          "EnableWaterDrop": false,
+          "EnableFlash": false,
+          "EnableRadialBlur": false,
+          "EnableBladeDisort": false,
+          "ShadersLevel": 0,
+          "DeviceLayer": 1,
+          "ShowTerrainLightMap": false,
+          "DisableFontEffects": true,
+          "TotalNPCAmountLimit": 20,
+          "TotalNPCAmountLimitMin": 4,
+          "TotalNPCAmountLimitMax": 60,
+          "SkillEffectAmoutLimit":10,
+          "SkipTouchEventInSameFrame": true,
+          "Anisotropy": 0,
+          "EnableSkipMoreMipmapLevel": true,
+          "EnableStick": false
+        },
+        "GPU_2_G3": {
+          "GPU_Level": 0,
+          "ModelDetailLevel": 2,
+          "CullDistanceCoef": 4,
+          "EnableFogDistanceLimit": true,
+          "ForceModelLodLevel": 1,
+          "EffectBias": 0,
+          "EffectDetailLevel": 0,
+          "FogDisCoef": 0.667,
+          "EnableBloom": false,
+          "EnableUnderwaterEffect": false,
+          "EnableWaterDrop": false,
+          "EnableFlash": false,
+          "EnableRadialBlur": false,
+          "EnableBladeDisort": false,
+          "ShadersLevel": 0,
+          "DeviceLayer": 1,
+          "ShowTerrainLightMap": false,
+          "DisableFontEffects": true,
+          "TotalNPCAmountLimit": 20,
+          "TotalNPCAmountLimitMin": 4,
+          "TotalNPCAmountLimitMax": 60,
+          "SkillEffectAmoutLimit":10,
+          "SkipTouchEventInSameFrame": true,
+          "Anisotropy": 0,
+          "EnableSkipMoreMipmapLevel": true,
+          "EnableStick": false
+        },
+        "GPU_2_Note4": {
+          "GPU_Level": 0,
+          "ModelDetailLevel": 2,
+          "CullDistanceCoef": 4,
+          "EnableFogDistanceLimit": true,
+          "ForceModelLodLevel": 1,
+          "EffectBias": 0,
+          "EffectDetailLevel": 0,
+          "FogDisCoef": 0.667,
+          "EnableBloom": false,
+          "EnableUnderwaterEffect": false,
+          "EnableWaterDrop": false,
+          "EnableFlash": false,
+          "EnableRadialBlur": false,
+          "EnableBladeDisort": false,
+          "ShadersLevel": 0,
+          "DeviceLayer": 1,
+          "ShowTerrainLightMap": false,
+          "DisableFontEffects": true,
+          "TotalNPCAmountLimit": 20,
+          "TotalNPCAmountLimitMin": 4,
+          "TotalNPCAmountLimitMax": 60,
+          "SkillEffectAmoutLimit":10,
+          "SkipTouchEventInSameFrame": true,
+          "Anisotropy": 0,
+          "EnableSkipMoreMipmapLevel": true,
+          "EnableStick": false
+        },
+        "GPU_3": {
+          "GPU_Level": 0,
+          "ModelDetailLevel": 2,
+          "CullDistanceCoef": 4,
+          "EnableFogDistanceLimit": true,
+          "ForceModelLodLevel": 1,
+          "EffectBias": 0,
+          "EffectDetailLevel": 0,
+          "FogDisCoef": 0.667,
+          "EnableBloom": false,
+          "EnableUnderwaterEffect": false,
+          "EnableWaterDrop": false,
+          "EnableFlash": false,
+          "EnableRadialBlur": false,
+          "EnableBladeDisort": false,
+          "ShadersLevel": 0,
+          "DeviceLayer": 1,
+          "ShowTerrainLightMap": false,
+          "DisableFontEffects": true,
+          "TotalNPCAmountLimit": 20,
+          "TotalNPCAmountLimitMin": 4,
+          "TotalNPCAmountLimitMax": 60,
+          "SkillEffectAmoutLimit":10,
+          "SkipTouchEventInSameFrame": true,
+          "Anisotropy": 0,
+          "EnableSkipMoreMipmapLevel": true,
+          "EnableStick": false
+        },
+        "GPU_4": {
+          "GPU_Level": 0,
+          "ModelDetailLevel": 2,
+          "CullDistanceCoef": 4,
+          "EnableFogDistanceLimit": true,
+          "ForceModelLodLevel": 1,
+          "EffectBias": 0,
+          "EffectDetailLevel": 0,
+          "FogDisCoef": 0.667,
+          "EnableBloom": false,
+          "EnableUnderwaterEffect": false,
+          "EnableWaterDrop": false,
+          "EnableFlash": false,
+          "EnableRadialBlur": false,
+          "EnableBladeDisort": false,
+          "ShadersLevel": 0,
+          "DeviceLayer": 1,
+          "ShowTerrainLightMap": false,
+          "DisableFontEffects": true,
+          "TotalNPCAmountLimit": 20,
+          "TotalNPCAmountLimitMin": 4,
+          "TotalNPCAmountLimitMax": 60,
+          "SkillEffectAmoutLimit":10,
+          "SkipTouchEventInSameFrame": true,
+          "Anisotropy": 0,
+          "EnableSkipMoreMipmapLevel": true,
+          "EnableStick": false
+        },
+        "GPU_4_NEXUS5": {
+          "GPU_Level": 0,
+          "ModelDetailLevel": 2,
+          "CullDistanceCoef": 4,
+          "EnableFogDistanceLimit": true,
+          "ForceModelLodLevel": 1,
+          "EffectBias": 0,
+          "EffectDetailLevel": 0,
+          "FogDisCoef": 0.667,
+          "EnableBloom": false,
+          "EnableUnderwaterEffect": false,
+          "EnableWaterDrop": false,
+          "EnableFlash": false,
+          "EnableRadialBlur": false,
+          "EnableBladeDisort": false,
+          "ShadersLevel": 0,
+          "DeviceLayer": 1,
+          "ShowTerrainLightMap": false,
+          "DisableFontEffects": true,
+          "TotalNPCAmountLimit": 20,
+          "TotalNPCAmountLimitMin": 4,
+          "TotalNPCAmountLimitMax": 60,
+          "SkillEffectAmoutLimit":10,
+          "SkipTouchEventInSameFrame": true,
+          "Anisotropy": 0,
+          "EnableSkipMoreMipmapLevel": true,
+          "EnableStick": false
+        },
+        "GPU_4_S5": {
+          "GPU_Level": 0,
+          "ModelDetailLevel": 2,
+          "CullDistanceCoef": 4,
+          "EnableFogDistanceLimit": true,
+          "ForceModelLodLevel": 1,
+          "EffectBias": 0,
+          "EffectDetailLevel": 0,
+          "FogDisCoef": 0.667,
+          "EnableBloom": false,
+          "EnableUnderwaterEffect": false,
+          "EnableWaterDrop": false,
+          "EnableFlash": false,
+          "EnableRadialBlur": false,
+          "EnableBladeDisort": false,
+          "ShadersLevel": 0,
+          "DeviceLayer": 1,
+          "ShowTerrainLightMap": false,
+          "DisableFontEffects": true,
+          "TotalNPCAmountLimit": 20,
+          "TotalNPCAmountLimitMin": 4,
+          "TotalNPCAmountLimitMax": 60,
+          "SkillEffectAmoutLimit":10,
+          "SkipTouchEventInSameFrame": true,
+          "Anisotropy": 0,
+          "EnableSkipMoreMipmapLevel": true,
+          "EnableStick": false
+        },
+        "GPU_5": {
+          "GPU_Level": 0,
+          "ModelDetailLevel": 2,
+          "CullDistanceCoef": 4,
+          "EnableFogDistanceLimit": true,
+          "ForceModelLodLevel": 1,
+          "EffectBias": 0,
+          "EffectDetailLevel": 0,
+          "FogDisCoef": 0.667,
+          "EnableBloom": false,
+          "EnableUnderwaterEffect": false,
+          "EnableWaterDrop": false,
+          "EnableFlash": false,
+          "EnableRadialBlur": false,
+          "EnableBladeDisort": false,
+          "ShadersLevel": 0,
+          "DeviceLayer": 1,
+          "ShowTerrainLightMap": false,
+          "DisableFontEffects": true,
+          "TotalNPCAmountLimit": 20,
+          "TotalNPCAmountLimitMin": 4,
+          "TotalNPCAmountLimitMax": 60,
+          "SkillEffectAmoutLimit":10,
+          "SkipTouchEventInSameFrame": true,
+          "Anisotropy": 0,
+          "EnableSkipMoreMipmapLevel": true,
+          "EnableStick": false
+        },
+        "GPU_5_NEXUS9": {
+          "GPU_Level": 0,
+          "ModelDetailLevel": 2,
+          "CullDistanceCoef": 4,
+          "EnableFogDistanceLimit": true,
+          "ForceModelLodLevel": 1,
+          "EffectBias": 0,
+          "EffectDetailLevel": 0,
+          "FogDisCoef": 0.667,
+          "EnableBloom": false,
+          "EnableUnderwaterEffect": false,
+          "EnableWaterDrop": false,
+          "EnableFlash": false,
+          "EnableRadialBlur": false,
+          "EnableBladeDisort": false,
+          "ShadersLevel": 0,
+          "DeviceLayer": 1,
+          "ShowTerrainLightMap": false,
+          "DisableFontEffects": true,
+          "TotalNPCAmountLimit": 20,
+          "TotalNPCAmountLimitMin": 4,
+          "TotalNPCAmountLimitMax": 60,
+          "SkillEffectAmoutLimit":10,
+          "SkipTouchEventInSameFrame": true,
+          "Anisotropy": 0,
+          "EnableSkipMoreMipmapLevel": true,
+          "EnableStick": false
+        },
+        "GPU_6": {
+          "GPU_Level": 0,
+          "ModelDetailLevel": 2,
+          "CullDistanceCoef": 4,
+          "EnableFogDistanceLimit": true,
+          "ForceModelLodLevel": 1,
+          "EffectBias": 0,
+          "EffectDetailLevel": 0,
+          "FogDisCoef": 0.667,
+          "EnableBloom": false,
+          "EnableUnderwaterEffect": false,
+          "EnableWaterDrop": false,
+          "EnableFlash": false,
+          "EnableRadialBlur": false,
+          "EnableBladeDisort": false,
+          "ShadersLevel": 0,
+          "DeviceLayer": 1,
+          "ShowTerrainLightMap": false,
+          "DisableFontEffects": true,
+          "TotalNPCAmountLimit": 20,
+          "TotalNPCAmountLimitMin": 4,
+          "TotalNPCAmountLimitMax": 60,
+          "SkillEffectAmoutLimit":10,
+          "SkipTouchEventInSameFrame": true,
+          "Anisotropy": 0,
+          "EnableSkipMoreMipmapLevel": true,
+          "EnableStick": false
+        }
+      },
+      "priority": {
+        "GPU_0": [
+          "GPU_1",
+          ""
+        ],
+        "GPU_0M": [
+          "GPU_0",
+          ""
+        ],
+        "GPU_1": [
+          "GPU_2",
+          "GPU_0"
+        ],
+        "GPU_2": [
+          "GPU_3",
+          "GPU_1"
+        ],
+        "GPU_2_G3": [
+          "GPU_3",
+          "GPU_1"
+        ],
+        "GPU_2_Note4": [
+          "GPU_3",
+          "GPU_1"
+        ],
+        "GPU_3": [
+          "GPU_4",
+          "GPU_2"
+        ],
+        "GPU_4": [
+          "GPU_5",
+          "GPU_3"
+        ],
+        "GPU_4_NEXUS5": [
+          "GPU_5",
+          "GPU_3"
+        ],
+        "GPU_4_S5": [
+          "GPU_5",
+          "GPU_3"
+        ],
+        "GPU_5": [
+          "",
+          "GPU_4"
+        ],
+        "GPU_5_NEXUS9": [
+          "",
+          "GPU_4"
+        ],
+        "GPU_6": [
+          "",
+          "GPU_5"
+        ]
+      }
+    },
+    "MEM": {
+      "defaults": [
+        {
+          "Default": [
+            [
+              "MEM_Level",
+              1,
+              "Memory level to measure in game",
+              "[0;3]"
+            ],
+            [
+              "GameSwfTextureType",
+              1,
+              "0=PVR, 1=R8G8B8A8",
+              "[0;1]"
+            ],
+            [
+              "TextureSkippedMipmaps",
+              0,
+              "The number of mipmaps that will be skipped for each texture except lightmap & terrain diffuse",
+              "[0;10]"
+            ],
+            [
+              "LightmapSkippedMipmaps",
+              0,
+              "The number of mipmaps that will be skipped for each lightmap texture",
+              "[0;10]"
+            ],
+            [
+              "TerrainTextureSkippedMipmaps",
+              0,
+              "The number of mipmaps that will be skipped for Terrain diffuse",
+              "[0;10]"
+            ],
+            [
+              "AnimationCacheSize",
+              20,
+              "",
+              "[0;50]"
+            ],
+            [
+              "ShadowMapTextureSize",
+              2048,
+              "keep it square (2bytes per pixel)",
+              "[1024;4096]"
+            ],
+            [
+              "PlayCinematic",
+              true,
+              "",
+              "[0;0]"
+            ],
+            [
+              "UseHalfSizeUITexture",
+              false,
+              "",
+              "[0;0]"
+            ],
+            [
+              "UseSmallTerrainMask",
+              false,
+              "use 1/4 Terrain MSK to save Terrain MSK memory, 0.25 * 0.75 for each tile",
+              "[0;0]"
+            ],
+            [
+              "EnableRTTCreating",
+              true,
+              "set this to false, will completely remove RTT creating and all postEffects, would save 5MB VRAM on ipad2/padmini1",
+              "[0;0]"
+            ],
+            [
+              "ReleaseStaticBatchSegWhenHiding",
+              false,
+              "release static batch seg memory when models are hiding",
+              "[0;0]"
+            ],
+            [
+              "EnableResourceManager",
+              false,
+              "use memory dump file to save RAM when enter background",
+              "[0;0]"
+            ],
+            [
+              "UseLowEffectCache",
+              true,
+              "",
+              "[0;0]"
+            ],
+            [
+              "EnableGameSWFCaching",
+              true,
+              "Enable render caching for gameswf",
+              "[0;0]"
+            ],
+            [
+              "EnablePreloadTexture",
+              true,
+              "Enable preloading some textures",
+              "[0;0]"
+            ]
+          ]
+        }
+      ],
+      "selection": [
+        {
+          "MEM_0": [
+            [
+              [
+                "MEM_T<=1000"
+              ]
+            ]
+          ]
+        },
+        {
+          "MEM_1": [
+            [
+              [
+                "MEM_T<=1500"
+              ]
+            ]
+          ]
+        },
+        {
+          "MEM_2": [
+            [
+              [
+                "MEM_T>1500"
+              ]
+            ]
+          ]
+        }
+      ],
+      "overrides": {
+        "MEM_0": {
+          "MEM_Level": 0,
+          "GameSwfTextureType": 0,
+          "TextureSkippedMipmaps": 2,
+          "TerrainTextureSkippedMipmaps": 1,
+          "AnimationCacheSize": 10,
+          "ShadowMapTextureSize": 1024,
+          "EnableRTTCreating": false,
+          "ReleaseStaticBatchSegWhenHiding": true,
+          "EnablePreloadTexture": false
+        },
+        "MEM_1": [],
+        "MEM_2": {
+          "MEM_Level": 2,
+          "AnimationCacheSize": 100,
+          "ShadowMapTextureSize": 4096
+        },
+      "overrides": {
+        "Res_0": {
+          "Res_Level": 0,
+          "AndroidScreenScale": 66
+        },
+        "Res_1": {
+          "Res_Level": 0,
+          "AndroidScreenScale": 80
+        },
+        "Res_2": []
+      },
+      "priority": []
+    }
+  }
+}
