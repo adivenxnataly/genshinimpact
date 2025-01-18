@@ -4,7 +4,7 @@ this is config for optimizing rendering on Android devices.
 with Low custom configuration.
 
 #### Requirements
-This config installation uses the `genshin.sh` script which requires termux with `su` (superuser) access:
+this config installation uses the `genshin.sh` script which requires termux with `su` (superuser) access:
 
     sh /PATH/TO/DIRECTORY/genshin.sh
 
