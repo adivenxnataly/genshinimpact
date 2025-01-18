@@ -1,0 +1,20 @@
+{
+    "configs": [
+        {
+            "hardwareModel": "Your Device Model",
+            "littleCoreCount": 0,
+            "bigCoreCount": 8,
+            "littleCoreMask": 0,
+            "bigCoreMask": 2900,
+            "vulkanFlag": 1,
+            "openglFlag": 0,
+            "vulkanSupport": 1,
+            "openglSupport": 0,
+            "TextureFormats": "ASTC",
+            "isVariableMaxFPS": 1,
+            "unityQualityGraphics": 1,
+            "GpuUsageNodeMask": 1,
+            "JobsUtility.JobWorkerMaximumCount": 8,
+        }
+    ]
+}
