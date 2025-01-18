@@ -13,7 +13,7 @@
             "TextureFormats": "ASTC",
             "isVariableMaxFPS": 1,
             "unityQualityGraphics": 1,
-            "GpuUsageNodeMask": 01,
+            "GpuUsageNodeMask": 1,
             "JobsUtility.JobWorkerMaximumCount": 8,
         }
     ]
